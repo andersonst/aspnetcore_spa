@@ -1,0 +1,15 @@
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
+
+namespace DatingApp.API.Models
+{
+    
+    public class Value 
+    {
+        
+        public int Id { get; set;}
+
+        public string Name { get; set; }
+
+    }
+}
