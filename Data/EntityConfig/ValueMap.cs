@@ -13,6 +13,7 @@ namespace DatingApp.API.Data.EntityConfig
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Id).ValueGeneratedOnAdd();
             builder.Property(x => x.Name).HasColumnName("Nome").HasMaxLength(100);
+            
 
         }
     }
