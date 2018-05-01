@@ -1,0 +1,20 @@
+C:\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.deps.json
+C:\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.json
+C:\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.dev.json
+C:\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.dll
+C:\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.pdb
+C:\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfoInputs.cache
+C:\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfo.cs
+C:\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.dll
+C:\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.pdb
+C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.deps.json
+C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.json
+C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.dev.json
+C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.dll
+C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.pdb
+C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfoInputs.cache
+C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfo.cs
+C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.dll
+C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.pdb
