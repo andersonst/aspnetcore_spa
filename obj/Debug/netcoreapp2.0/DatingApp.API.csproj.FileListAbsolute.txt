@@ -18,3 +18,4 @@ C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\obj\Debug\netcor
 C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfo.cs
 C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.dll
 C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.pdb
+C:\Users\Anderson Tavares\OneDrive\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csprojResolveAssemblyReference.cache
